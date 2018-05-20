@@ -10,3 +10,5 @@ In the script,I did this four step:
 4.Appropriately labels the data set with descriptive variable names.
 
 And after analysis,I create a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+ps:I am not so sure how to write the CodeBook.md file. So I just write down the variable name in this analysis process.
